@@ -1,0 +1,41 @@
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: black;
+    background-size: cover;
+    
+}
+.menu{
+    list-style: none;
+    padding: 0;
+    background-color:rgb(202, 70, 70);
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+
+}
+.menu li a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display: block;
+}
+.menu li{
+    display: inline-block;
+    text-align: center;
+}
+.menu li a:hover{
+    background: rgb(158, 147, 158);}
+
+.video{
+    text-align: center;
+    color: aliceblue;
+    margin: 40px auto;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.video2{
+    text-align: center;
+    margin: 20px;
+    text-align: center;
+    width:100%;
+}
